@@ -13,7 +13,8 @@
   "files": [
     "Elephant.js",
     "Elephant.d.ts",
-    "Elephant.js.map"
+    "Elephant.js.map",
+    "Elephant.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
